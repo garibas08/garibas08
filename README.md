@@ -2,12 +2,12 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (3º semestre na FATEC) e estou construindo um portfólio sólido para ingressar em um estágio de desenvolvimento em 2026. Busco oportunidades presenciais, remotas ou híbridas na área de programação.
 
-Tenho experiência com C, Java, Python, MySQL, Git/GitHub e noções de HTML, CSS e JavaScript. A partir de dezembro e janeiro estou realizando um plano de estudo focado em criar **um projeto por semana**, alternando entre Java e Python, incluindo integração com bancos SQL e NoSQL (como MongoDB). Meu foco é desenvolver projetos práticos, aplicados e relevantes para o mercado.
+Tenho experiência com C, Java, Python, MySQL, Git/GitHub. A partir de dezembro e janeiro estou realizando um plano de estudo focado em criar **um projeto por semana**, alternando entre Java e Python, incluindo integração com bancos SQL e NoSQL (como MongoDB). Meu foco é desenvolver projetos práticos, aplicados e relevantes para o mercado.
 
 Além da programação, tenho experiência prática com **automações e integrações**, incluindo projetos no **Home Assistant**, onde desenvolvi:
 
 - Configuração de **DNS personalizado para integração com Alexa**  
-- Criação de um **dashboard interativo** para monitoramento em tempo real da iluminação de um projeto  
+- Criação de um **dashboard interativo** para monitoramento em tempo real da iluminação de um projeto 3d
 - Desenvolvimento de **automações em YAML** para controle inteligente e visualização dinâmica  
 - Integração de dispositivos, lógica condicional e ajustes de estados em tempo real  
 
@@ -17,13 +17,12 @@ Também sou formado nos cursos técnicos de **Mecatrônica** e **Cybersistemas p
 
 Este repositório será atualizado constantemente com meus projetos semanais e minhas evoluções como programador. Sinta-se à vontade para acompanhar minha jornada!
 
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 👋 Hi! I'm Gabriel Garibaldi
 
 I'm a Systems Analysis and Development student (3rd semester at FATEC) building a strong portfolio to start my career as a software developer in 2026. I'm currently seeking an internship in programming—on-site, remote, or hybrid.
 
-I have experience with C, Java, Python, MySQL, Git/GitHub and basic knowledge of HTML, CSS, and JavaScript. Starting December and January, I'm following a study plan where I develop **one project per week**, alternating between Java and Python, including integrations with SQL and NoSQL databases such as MongoDB. My goal is to build practical, well-structured projects that demonstrate my skills and problem-solving ability.
+I have experience with C, Java, Python, MySQL, Git/GitHub. Starting December and January, I'm following a study plan where I develop **one project per week**, alternating between Java and Python, including integrations with SQL and NoSQL databases such as MongoDB. My goal is to build practical, well-structured projects that demonstrate my skills and problem-solving ability.
 
 I also have hands-on experience with **automation and smart home systems**. One of my main projects involved:
 
