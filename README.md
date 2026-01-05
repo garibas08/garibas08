@@ -15,7 +15,7 @@ Esses projetos reforçam minha habilidade em resolver problemas, trabalhar com s
 
 Também sou formado nos cursos técnicos de **Mecatrônica** e **Cybersistemas para Automação**, com experiência em automação industrial, lógica, eletrônica e análise de sistemas, o que complementa minha atuação como futuro desenvolvedor.
 
-Este repositório será atualizado constantemente com meus projetos semanais e minhas evoluções como programador. Sinta-se à vontade para acompanhar minha jornada!
+Sinta-se à vontade para acompanhar minha jornada!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 👋 Hi! I'm Gabriel Garibaldi
@@ -34,6 +34,5 @@ I also have hands-on experience with **automation and smart home systems**. One 
 These projects strengthened my skills in system integration, automation logic, and working with complex real-time environments.
 
 Additionally, I hold two technical degrees in **Mechatronics** and **Cybersystems for Automation**, which gave me a strong foundation in electronics, automation, logic, and system analysis—skills that complement my path in software development.
-
-This repository will be continuously updated with my weekly projects and learning progress.  
+ 
 Feel free to follow my journey!
