@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Gabriel Garibaldi 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (3º semestre na FATEC) e estou construindo um portfólio sólido para ingressar em um estágio de desenvolvimento em 2026. Busco oportunidades presenciais, remotas ou híbridas na área de programação.
+Sou estudante de Análise e Desenvolvimento de Sistemas (4º semestre na FATEC) e estou construindo um portfólio sólido para ingressar em um estágio de desenvolvimento em 2026. Busco oportunidades presenciais, remotas ou híbridas na área de programação.
 
 Tenho experiência com C, Java, Python, MySQL, Git/GitHub. A partir de dezembro e janeiro estou realizando um plano de estudo focado em criar **um projeto por semana**, alternando entre Java e Python, incluindo integração com bancos SQL e NoSQL (como MongoDB). Meu foco é desenvolver projetos práticos, aplicados e relevantes para o mercado.
 
@@ -20,7 +20,7 @@ Sinta-se à vontade para acompanhar minha jornada!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 👋 Hi! I'm Gabriel Garibaldi
 
-I'm a Systems Analysis and Development student (3rd semester at FATEC) building a strong portfolio to start my career as a software developer in 2026. I'm currently seeking an internship in programming—on-site, remote, or hybrid.
+I'm a Systems Analysis and Development student (4th semester at FATEC) building a strong portfolio to start my career as a software developer in 2026. I'm currently seeking an internship in programming—on-site, remote, or hybrid.
 
 I have experience with C, Java, Python, MySQL, Git/GitHub. Starting December and January, I'm following a study plan where I develop **one project per week**, alternating between Java and Python, including integrations with SQL and NoSQL databases such as MongoDB. My goal is to build practical, well-structured projects that demonstrate my skills and problem-solving ability.
 
