@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Gabriel Garibaldi 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (4º semestre na FATEC) e estou construindo um portfólio sólido para ingressar em um estágio de desenvolvimento em 2026. Busco oportunidades presenciais, remotas ou híbridas na área de programação.
+Sou estudante de Análise e Desenvolvimento de Sistemas (4º semestre na FATEC) e estou construindo um portfólio sólido para ingressar em um estágio de desenvolvimento em 2026. Busco oportunidades híbridas, remotas ou presenciais na área de programação.
 
 Tenho experiência com C, Java, Python, MySQL, Git/GitHub. 
 
